@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Roboto Condensed', Sans-Serif;
+    font-size: 35px;
+}
+p {
+    font-family:'Cabin', Sans-Serif;
+    font-size: 16px;
+}
+body {
+    text-align: center;
+}
